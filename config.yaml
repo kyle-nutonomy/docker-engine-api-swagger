@@ -1,0 +1,9 @@
+globalProperties:
+  apiTests: false
+  apiDocs: false
+  modelTests: false
+  modelDocs: false
+
+additionalProperties:
+  sourceFolder: "."
+  packageName: "ComputationsServer.Generated.DockerAPI"
